@@ -17,9 +17,6 @@
 - git push -u origin main
 - check status of the new github repository
 
-- git checkout -b SCRUM build button_delete 411070355
-- git commit -m "WTDL-8 <add a new delete button>"
-- git push --set-upstream origin SCRUM build button_delete 411070355
 
 
 
